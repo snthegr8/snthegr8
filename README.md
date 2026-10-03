@@ -1,25 +1,105 @@
-Personal site and blog for [snthegr8.cloud](https://snthegr8.cloud).
+<div align="center">
+  <img src="./assets/header.svg" alt="黙々 — Somtochukwu Nnalue" width="100%" />
+</div>
 
-Built with Astro, MDX, GSAP.
+<br />
 
-Font: Linux Libertine.
+<p align="center">
+  <em>You know I just … <strong>do</strong> things.<br />
+  Mostly software, and learning to be a better human.</em>
+</p>
 
-You're welcome to use this as a starting point for your own site. Fork it, swap the copy in `src/data/home.ts` and `src/data/experience.ts`, add posts under `src/content/blog/`, drop your photo in `public/me.png`, and update `src/consts.ts` with your name and domain.
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="480" />
+</div>
 
-```sh
-pnpm install
-pnpm dev
-pnpm build
+<br />
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 道 · michi
+**the path**
+
+Fullstack engineer shipping at
+[**alvinn.app**](https://alvinn.app).
+
+When I’m not shipping: bicycle rides,
+*The Mentalist*, beats on YouTube,
+economics textbooks.
+
+Quiet hours. Deep work. Clean systems.
+
+</td>
+<td width="45%" valign="top">
+
+### 技 · waza
+**the craft**
+
+```text
+TypeScript · Next.js · Astro
+PostgreSQL · Redis · Hono
+Cloudflare · GCP · LGTM
+Langchain · OpenAI
 ```
 
-## Spotify
+architecture with intent ·
+interfaces with soul
 
-The home intro can show currently listening, top artists, top album, and on-repeat.
+</td>
+</tr>
+</table>
 
-1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
-2. Add redirect URI `http://127.0.0.1:3000/callback`
-3. Copy `.env.example` → `.env` and fill `SPOTIFY_CLIENT_ID` + `SPOTIFY_CLIENT_SECRET`
-4. Run `pnpm spotify:token`, approve access, paste the refresh token into `.env`
-5. Restart `pnpm dev`
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="480" />
+</div>
 
-Live now-playing hits `/api/spotify/now-playing` (Vercel adapter). Set the three Spotify env vars in the Vercel project settings.
+### 縁 · en
+**connections**
+
+<p align="center">
+  <a href="https://snthegr8.cloud"><img src="https://img.shields.io/badge/site-snthegr8.cloud-0e0d0c?style=flat-square&labelColor=f4ede1&color=c8372d" alt="site" /></a>
+  &nbsp;
+  <a href="https://alvinn.app"><img src="https://img.shields.io/badge/building-alvinn.app-0e0d0c?style=flat-square&labelColor=f4ede1&color=0e0d0c" alt="alvinn" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/somtonnalue"><img src="https://img.shields.io/badge/linkedin-somtonnalue-0e0d0c?style=flat-square&labelColor=f4ede1&color=6b6661" alt="linkedin" /></a>
+  &nbsp;
+  <a href="mailto:snthegr8@icloud.com"><img src="https://img.shields.io/badge/mail-snthegr8@icloud.com-0e0d0c?style=flat-square&labelColor=f4ede1&color=b8956a" alt="mail" /></a>
+  &nbsp;
+  <a href="https://bandlab.com/snthegr8"><img src="https://img.shields.io/badge/voicenotes-bandlab-0e0d0c?style=flat-square&labelColor=f4ede1&color=0e0d0c" alt="bandlab" /></a>
+</p>
+
+<br />
+
+### 業 · gō
+**the work**
+
+```text
+2026–      Anamenng .............. Fullstack Engineer
+2025–2026  Anamenng .............. Backend Engineer
+2025–2026  Nowpost ............... Frontend Engineer
+2024–2025  GrowthApp ............. Full Stack Engineer
+2024       Prime Innovation ...... Instructor / Frontend
+```
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="480" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snthegr8&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=f4ede1&title_color=c8372d&text_color=0e0d0c&icon_color=b8956a&ring_color=c8372d" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snthegr8&layout=compact&hide_border=true&bg_color=f4ede1&title_color=c8372d&text_color=0e0d0c" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="静かに、深く、作り続ける" width="100%" />
+</div>
+
+<p align="center">
+  <sub>黙々と — keep building in silence.</sub>
+</p>
