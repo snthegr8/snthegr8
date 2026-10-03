@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/header.svg" alt="黙々 — Somtochukwu Nnalue" width="100%" />
-</div>
-
 <br />
 
 <p align="center">
@@ -22,38 +18,30 @@
 ### 道 · michi
 **the path**
 
-Fullstack engineer shipping at
+Fullstack Engineer  shipping at anamen & 
 [**alvinn.app**](https://alvinn.app).
 
 When I’m not shipping: bicycle rides,
-*The Mentalist*, beats on YouTube,
-economics textbooks.
-
-Quiet hours. Deep work. Clean systems.
+*The Mentalist*, surfing beats on YouTube or
+reading an economics textbook.
 
 </td>
 <td width="45%" valign="top">
 
 ### 技 · waza
-**the craft**
+*toolbox**
 
 ```text
-TypeScript · Next.js · Astro
+TypeScript · Next.js · Nest
 PostgreSQL · Redis · Hono
 Cloudflare · GCP · LGTM
 Langchain · OpenAI
 ```
 
-architecture with intent ·
-interfaces with soul
-
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="480" />
-</div>
 
 ### 縁 · en
 **connections**
@@ -96,10 +84,3 @@ interfaces with soul
 
 <br />
 
-<div align="center">
-  <img src="./assets/footer.svg" alt="静かに、深く、作り続ける" width="100%" />
-</div>
-
-<p align="center">
-  <sub>黙々と — keep building in silence.</sub>
-</p>
